@@ -23,11 +23,6 @@ article {
     padding: 20px; /* Adding some padding around the article content */
     border: 1px solid #ccc; /* Adding a border around the article */
 }
-h1{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-    color: black;
-}
 aside {
     flex: 1;
 }
