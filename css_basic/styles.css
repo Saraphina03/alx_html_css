@@ -12,6 +12,9 @@ main {
 }
 article {
     flex: 2;
+    background-color: #f7f7f7; /* Adding a light gray background to the article */
+    padding: 20px; /* Adding some padding around the article content */
+    border: 1px solid #ccc; /* Adding a border around the article */
 }
 aside {
     flex: 1;
